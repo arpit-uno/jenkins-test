@@ -1,0 +1,1 @@
+Getting started with Jenkins and github SCM integration
